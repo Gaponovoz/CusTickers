@@ -1,7 +1,7 @@
 # CusTickers
 App for creating and sending custom and private stickers on Telegram
 
-[#All the info and downloads - on my wesite! GitHub is for source code only.](http://gaponovoz.zapto.org/proj/custickers "#All the info and downloads - on my wesite! GitHub is for source code only.")
+#[All the info and downloads - on my wesite! GitHub is for source code only.](http://gaponovoz.zapto.org/proj/custickers "#All the info and downloads - on my wesite! GitHub is for source code only.")
 
 
 ------------
