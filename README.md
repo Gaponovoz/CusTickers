@@ -3,7 +3,8 @@ App for creating and sending custom and private stickers on Telegram
 
 [#All the info and downloads - on my wesite! GitHub is for source code only.](http://gaponovoz.zapto.org/proj/custickers "#All the info and downloads - on my wesite! GitHub is for source code only.")
 
-- *  *
+
+------------
 
 
 
@@ -18,7 +19,10 @@ But here is **how to compile it from the very sources**:
 Here we go! The program is totally compiled with its installer.
  
  
-- *  *
+
+------------
+
+
  
 **List of Open Source and proprietary libraries and projects used to make CusTickers:**
 1. file2clip by rostock
@@ -39,6 +43,9 @@ Here we go! The program is totally compiled with its installer.
 (for making that GUI run properly)
 14. Install Creator Pro (free demo version used)
 (for creating installation program)
-- *  *
+
+------------
+
+
 
 
