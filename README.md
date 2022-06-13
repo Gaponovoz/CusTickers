@@ -39,10 +39,12 @@ Here we go! The program is totally compiled with its installer.
 (for penetration-less putting stickers in the Telegram chat)
 10. AR Pro Enterprise II (free demo version used)
 (for creating GUI)
-12. Adobe Flash (version ~2009, the original installer is included into my installer)
+12. Adobe Flash (version ~2009, the original silent installer is included into my installer)
 (for making that GUI run properly)
 14. Install Creator Pro (free demo version used)
 (for creating installation program)
+15. 7zr 7z archiver command line version
+(for sticker packaging feature)
 
 ------------
 
