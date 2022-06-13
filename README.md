@@ -28,7 +28,7 @@ Here we go! The program is totally compiled with its installer.
 1. file2clip by rostock
 (for copying media to temporary clipboard with further sending from it)
 3. SOX and (name in my project - "sticker-aud")
-(for encoding Audicks and Vidicks)
+(for encoding Audio stickers)
 4. ImageMagick (name in my project - stick-er)
 (for editing custom user sticks to fit the interface of my app and to convert it for Telegram use)
 6. Bat To Exe Converter by Faith Kodak
