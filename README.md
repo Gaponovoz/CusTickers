@@ -43,7 +43,7 @@ Here we go! The program is totally compiled with its installer.
 (for making that GUI run properly)
 14. Install Creator Pro (free demo version used)
 (for creating installation program)
-15. 7zr 7z archiver command line version
+15. 7zr 7z archiver command line version (name in my project - "custick")
 (for sticker packaging feature)
 
 ------------
