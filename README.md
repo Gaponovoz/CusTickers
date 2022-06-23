@@ -2,7 +2,7 @@
 App for creating and sending custom and private stickers for Telegram
 
 
-### [All The Info And Downloads - On My Wesite! Github Is For Source Code Only](http://Gaponovoz.Zapto.Org/Proj/Custickers "All The Info And Downloads - On My Wesite! Github Is For Source Code Only")
+### [All The Info And Downloads - On My Wesite! Github Is For Source Code Only](http://gaponovoz.zapto.org/proj/custickers "All The Info And Downloads - On My Wesite! Github Is For Source Code Only")
 
 
 
