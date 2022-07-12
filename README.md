@@ -17,7 +17,7 @@ But here is **how to compile it from the very sources**:
   2.  **Compiling modules-scripts**. We also need modules (secondary executables) to make this app run. Let us compile some batch-based ones first. These batches are a sort of modules of my app for performing both simple and perplexing operations. You may just use "Bat_to_exe_converter" from "Batch" folder but it is possible to download it from author's site. Reminder: list of all the libraries and software I used to create CusTickers is located below. So, we open every batch file in this app and compile it as "Windows 32-bit Invisible". Then put all the executables near the main file "autorun.exe". After that compile last script - TGfetcher. It is AHK script, to compile it, use ahk2exe converter.
   3. **Putting libraries**. CusTickers needs certain libraries to work correctly. They are SoX, ImageMagick and others (they all are listed in the List of open source and proprietary libraries and projects used). So, download the mentioned executables and libraries (use 32-bit portable versions). You can reference to the my (original) installation folder to find out the needed libraries and their names.
   4. **Making font installer for installer**. We should have 3 files near each other - "ubuntu.ttf" (font file), "FontReg.exe" (font verificator for Windows) and our batch file called "InstallFont". We should put these two files into the project in program "Bat 2 Exe Converter", embedding three of them near each other. Select requirement of the administrator privelegies, select "Windows / 32-bit / Invisible" mode.
-  5. **Making an installer**. We use app "Install Creator Pro 2" for installer creation. Use that app as demo version. My project file is included in the source code archive. Just use it (name your source code folder "Source Code"!). Also put in the folder a Flash Player installer binary (any old 32 bit version) and call Flash.exe. Build the installer with compression preset "Maximum". Don't forget to delete unnecessary files from the source code folder like batch files. 
+  5. **Making an installer**. We use app "Install Creator Pro 2" for installer creation. Use that app as demo version. My project file is included in the source code archive. Just use it (name your source code folder "Source Code"!). Build the installer with compression preset "Maximum". Don't forget to delete unnecessary files from the source code folder like batch files. 
 Here we go! The program is totally compiled with its installer.
  
  
@@ -41,11 +41,9 @@ Here we go! The program is totally compiled with its installer.
 (for penetration-less putting stickers in the Telegram chat)
 10. AR Pro Enterprise II (free demo version used)
 (for creating GUI)
-12. Adobe Flash (version ~2009, the original silent installer is included into my installer)
-(for making that GUI run properly)
-14. Install Creator Pro (free demo version used)
+11. Install Creator Pro (free demo version used)
 (for creating installation program)
-15. 7zr 7z archiver command line version (name in my project - "custick")
+12. 7zr 7z archiver command line version (name in my project - "custick")
 (for sticker packaging feature)
 
 ------------
