@@ -43,6 +43,10 @@ Here we go! The program is totally compiled with its installer.
 (for creating installation program)
 8. 7zr 7z archiver command line version (name in my project - "custick")
 (for sticker packaging feature)
+9. FART by Lionello Lunesu
+(for hot replacing variables)
+10. AutoHotkey v1.1.34.3 by Lexikos (name in my project - "Worker")
+(for hot using earlier replaced code snippet)
 
 ------------
 
